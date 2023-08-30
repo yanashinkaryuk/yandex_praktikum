@@ -6,11 +6,14 @@
     </tr>
     <tr>
         <td>Навыки и инструменты</td>
-        <td> 
+        <td>
+          <code> A/B-тестирование </code>
           <code> Python </code>
           <code> Pandas </code>
+          <code> Matplotlib </code>
           <code> Seaborn </code>
-          <code> Plotly </code>     
+          <code> Plotly </code> 
+          <code> Событийная аналитика </code>     
         </td>
     </tr>
     <tr>
